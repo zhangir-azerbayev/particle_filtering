@@ -1,5 +1,4 @@
-# particle_filtering
-Particle Filtering for Sequential Bayesian Inference
+# Particle Filtering for Sequential Bayesian Inference
 
 This project consists of two parts. 
 1. An article mathematically describing particle filtering `project.pdf`. 
